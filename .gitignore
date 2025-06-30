@@ -1,1 +1,4 @@
-dataset/processed/slices/
+dataset/
+model_outputs/
+.venv/
+*.pyc
