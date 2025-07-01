@@ -1,4 +1,5 @@
-dataset/
+*.npy
+*/raw.zip
 model_outputs/
 .venv/
 *.pyc
